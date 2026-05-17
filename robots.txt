@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 公開後、下の URL を自分のサイトURLに書き換えてください
+Sitemap: https://REPLACE_WITH_YOUR_SITE_URL/sitemap.xml
