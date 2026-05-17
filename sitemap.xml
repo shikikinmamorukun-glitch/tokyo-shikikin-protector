@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!--
-    ▼ 公開後、下の <loc> のURLを自分のサイトURLに書き換えてください
-    例: https://your-username.github.io/shikikin-mamorukun/
-  -->
   <url>
-    <loc>https://REPLACE_WITH_YOUR_SITE_URL/</loc>
+    <loc>https://shikikinmamorukun-glitch.github.io/tokyo-shikikin-protector/</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
